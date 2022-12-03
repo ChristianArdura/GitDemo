@@ -24,7 +24,7 @@ public static void main(String[] args) throws InterruptedException {
 		
 	
 		//Close browsers
-		//driver.close(); //Close current browser
+		driver.close(); //Close current browser (Changed on develop branch)
 
 		
 	}
